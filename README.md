@@ -6,7 +6,7 @@ A computer vision system that monitors and counts available parking spaces in re
 
 ### Demo Video
 
-[![Parking Space Counter Demo](https://via.placeholder.com/600x338?text=Demo+Video+Thumbnail)](https://youtu.be/your-demo-video-id)
+> [▶️ Click here to watch the demo](demo.mp4.mp4)
 
 *Click the image above to watch the demo video*
 
