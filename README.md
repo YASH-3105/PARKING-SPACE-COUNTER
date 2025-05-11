@@ -6,13 +6,13 @@ A computer vision system that monitors and counts available parking spaces in re
 
 ### Demo Video
 
-> [▶️ Click here to watch the demo](demo.mp4.mp4)
+> [▶️ Click here to watch the demo](demo2.mp4)
 
 *Click the image above to watch the demo video*
 
 ### Sample Output
 
-![Sample Output](https://via.placeholder.com/800x450?text=Sample+Output+Screenshot)
+> [▶️Click here to see the overview of project](demoPic.png)
 
 *Example of the application detecting and counting available parking spaces*
 
